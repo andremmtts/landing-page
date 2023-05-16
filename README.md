@@ -7,7 +7,7 @@ Projeto Lading Page
 
 O projeto Landing Page foi um projeto de conclusão de curso de HTML e CSS para iniciantes.
 
-No projeto e na imagem traz referência a linguágem JS mesmo não tendo a linguagem no código, pois seria estudado no mesmo curso.
+No projeto e na imagem traz referência a linguagem JS mesmo não tendo a linguagem no código, pois seria estudado no mesmo curso.
 
 Site no link a seguir: https://landingpage-andremattos.netlify.app
 
